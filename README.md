@@ -10,6 +10,8 @@ Also the format of your Pastebin file needs to be very specific, look at the exe
 
 Enjoy!
 
+Video sample of the app in action: https://youtu.be/50QfMobv2bU
+
 *** New to Side-Loading on the new Apple TV ? ***
 
 You gonna need:
